@@ -59,6 +59,7 @@ I'm a **Mechatronics & Robotics Engineering** student at the Faculty of Engineer
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
 ![Proteus](https://img.shields.io/badge/-Proteus-CB2029?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **Programming**
 
