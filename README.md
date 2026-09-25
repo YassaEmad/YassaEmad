@@ -98,7 +98,7 @@ I'm a **Mechatronics & Robotics Engineering** student at the Faculty of Engineer
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YassaEmad&show_icons=true&theme=default&hide_title=true)
 
 ---
 
