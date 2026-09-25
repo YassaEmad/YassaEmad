@@ -6,22 +6,47 @@ I'm a **Mechatronics & Robotics Engineering** student at the Faculty of Engineer
 
 ## 🎯 Engineering Focus
 
-- **Embedded Systems** — AVR/ATmega32, ESP32, STM32/ARM
-- **Control Systems** — PID control, motor control, automation
-- **Robotics** — line-following robots, servo systems, robotics fundamentals
-- **Mechanical Design** — CAD and mechanism design in SOLIDWORKS
-- **Engineering System Design** — combining mechanical, electrical, and software subsystems
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔩 Embedded Systems</b><br/>
+      AVR/ATmega32 · ESP32 · STM32/ARM
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Control Systems</b><br/>
+      PID control · Motor control · Automation
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 Robotics</b><br/>
+      Line-following robots · Servo systems · Robotics fundamentals
+    </td>
+    <td width="50%" valign="top">
+      <b>📐 Mechanical Design</b><br/>
+      CAD & mechanism design in SOLIDWORKS
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>🧩 Engineering System Design</b><br/>
+      Combining mechanical, electrical, and software subsystems
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌱 Currently Developing
 
-- Currently learning **ARM / STM32** embedded development
-- Exploring **Machine Learning** foundations (Python, math basics) — an expanding area, not a specialization
-- Building familiarity with **ROS / ROS2** for robotics software
-- Developing my skills in **Linux**, especially for robotics workflows
-- Working toward stronger **engineering system design** practices
-- Continuing **SOLIDWORKS / Mechanical CAD** skills beyond the associate level
+| Area | Status |
+|---|---|
+| 🔧 ARM / STM32 embedded development | Currently learning |
+| 🧠 Machine Learning foundations (Python, math) | Exploring — not a specialization |
+| 🦾 ROS / ROS2 for robotics software | Building familiarity |
+| 🐧 Linux, especially for robotics workflows | Developing my skills in |
+| 🏗️ Engineering system design practices | Working toward |
+| 📐 SOLIDWORKS / Mechanical CAD beyond associate level | Continuing to build |
 
 ---
 
@@ -33,16 +58,20 @@ I'm a **Mechatronics & Robotics Engineering** student at the Faculty of Engineer
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/-PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-CB2029?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
 
 **Programming**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **CAD**
 
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-E4302B?style=flat-square&logo=dassaultsystemes&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 **Web (secondary skill)**
 
