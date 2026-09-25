@@ -99,7 +99,7 @@ I'm a **Mechatronics & Robotics Engineering** student at the Faculty of Engineer
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YassaEmad&show_icons=true&theme=default&hide_title=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassaEmad&layout=compact&theme=default)
 ---
 
 ## 📫 Contact
